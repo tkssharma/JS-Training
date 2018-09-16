@@ -1,0 +1,21 @@
+{
+  "name": "js-training",
+  "version": "0.1.0",
+  "description": "JS Training",
+  "author": {
+    "name": "tks",
+    "email": "tarun.softengg@gmail.com",
+    "url"  : "https://github.com/tkssharma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tkssharma/JS-Training.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tkssharma/JS-Training.git"
+  },
+  "homepage": "https://github.com/tkssharma/JS-Training.git",
+  "devDependencies": {
+    "doctoc": "1.2.0"
+  }
+}
