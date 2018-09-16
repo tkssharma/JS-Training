@@ -1,0 +1,117 @@
+Section-1
+--------------------------------------
+Getting started with JS : operators
+Hidden parts of javascript
+Working with JavaScript Variables and Datatypes
+Basic JavaScript if Statements
+JavaScript else if Statements
+Logical Operators AND and OR with Compound if statements
+Javascript Ternary Operator
+Loop in javascript
+
+Section-2
+--------------------------------------
+Control Flow in JS
+JavaScript While and Do..While Loop
+1- If...else
+2- Switch...case
+3- For
+4- While
+5- Do...While
+6- Infinite Loops
+7- For...In
+8- For...of
+9- Break and Continue
+
+
+Section-3
+--------------------------------------
+
+Array in Javascript
+Introduction to Arrays with JavaScript
+Manipulating and Sorting Arrays in JavaScript
+Playing with JavaScript Objects
+JavaScript for loops
+JavaScript for..in Loops
+var let const - Variable Declarations in JavaScript
+Working with Strings in JavaScript
+JavaScript Unicode Characters and Escape Sequences
+Globals and Numbers and Math. Oh My.
+JavaScript String.split and Array.join
+JavaScript Array forEach Method
+JavaScript Array map method
+JavaScript Array filter method
+JavaScript Array reduce method
+JavaScript Array concat method
+JavaScript Array includes method
+JavaScript Array some method
+JavaScript Array every method
+JavaScript Chaining Array Methods and Using Arrow Functions
+What is AJAX and Why Should I Care
+Fundamentals of the JavaScript fetch method for AJAX
+JavaScript Function Currying
+
+Section-4
+--------------------------------------
+
+String  in Javascript
+JavaScript String.split and Array.join
+JavaScript String forEach Method
+JavaScript String map method
+JavaScript String filter method
+JavaScript String reduce method
+JavaScript String concat method
+JavaScript String includes method
+JavaScript String some method
+JavaScript String every method
+
+
+
+Section-5
+--------------------------------------
+Function in javascript
+Introduction to Functions in JavaScript
+JavaScript Function Parameters
+JavaScript Function Return Statements
+ES JavaScript Arrow Functions
+
+Section-6
+--------------------------------------
+Scope in javascript
+Variable Scope
+JavaScript Hoisting
+This object in js
+Global object 
+1- Function Declarations vs. Expressions
+2- Hoisting
+3- Arguments
+4- The Rest Operator
+5- Default Parameters
+6- Getters and Setters
+7- Try and Catch
+8- Local vs. Global Scope
+ 9 - Let vs Var
+10- The This Keyword
+11- Changing This
+
+
+Section - 7
+--------------------------------------
+Object is Javascript 
+1 - Basics
+2- Factory Functions
+3- Constructor Functions
+4- Dynamic Nature of Objects
+5- Constructor Propertycts
+7- Value vs. Reference Types
+8- Enumerating Properties of an Object
+9- Cloning an Object
+10- Garbage Collection
+12- String
+13- Template Literals
+14- Date
+15- Exercise 1- Address Object
+16- Exercise- Factory and Constructor Function
+17- Exercise 3- Object Equality
+18- Exercise 4- Blog Post Object
+19- Exercise 5- Constructor Functions
