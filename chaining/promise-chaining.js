@@ -17,7 +17,7 @@ new Promise(function(resolve, reject) {
     alert(result); // 4
     return result * 2;
   });
-
+// ES6 
 let promise = new Promise(function(resolve, reject) {
   setTimeout(() => resolve(1), 1000);
 });

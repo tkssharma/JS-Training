@@ -25,3 +25,9 @@
 - [Single Page Applications](/spa)
 
 ## Resources
+
+- https://coggle.it/diagram/Wk2DLkek-wABOVsn/t/javascript
+- https://coggle.it/diagram/Wh_EjMX_9wABx_0R/t/es6
+- https://coggle.it/diagram/Wa50Yi5h8gAB_5Eo/t/javascript
+- https://coggle.it/diagram/Wmlxyfi84QAB1a8O/t/javascript-development
+- https://coggle.it/diagram/WHu2b0mn-EQLmo52/t/understanding-javascript-modules

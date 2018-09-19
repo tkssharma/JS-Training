@@ -31,7 +31,11 @@ console.log(subTypeObj.getSubAge()); //Output: 26
 /******************/ Problems with prototype chaining//******************** */
 
 
-//As all the properties of the super type //prototype are shared among the child //objects, if one child modifies the //property of the Super type prototype, //other children also gets affected.
+//As all the properties of the super type 
+//prototype are shared among the child 
+//objects, if one child modifies the 
+//property of the Super type prototype, 
+//other children also gets affected.
 
 
 
