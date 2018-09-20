@@ -15,7 +15,8 @@ function SubType(){
 
 //Inherit the properties from SuperType
 SubType.prototype = new SuperType();
-// This means that all the properties and methods that typically exists on an instance of SuperType now also on SubType.prototype 
+// This means that all the properties and methods that typically 
+// exists on an instance of SuperType now also on SubType.prototype 
 //Add new property to SubType prototype
 SubType.prototype.getSubAge = function(){
 	return this.age;

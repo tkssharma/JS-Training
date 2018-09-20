@@ -19,6 +19,9 @@ var Exposer = (function() {
         second: otherMethodIWantToExpose
     };
   })();
+
+
+
   
   Exposer.first();        // Output: This is a method I want to expose!
   Exposer.second();       // Output: Inside a private method!

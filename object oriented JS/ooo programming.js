@@ -3,7 +3,11 @@
 //Objects Literals
 //Construction Functions
 //Inheritance
+var MyApp = {};
+var MyApp = (function(){
+  // code
 
+})();
 MyApp.users = {
   // properties
   existingUsers: [1, 2, 3],
@@ -105,6 +109,8 @@ function Editor(name, email) {}
 // To set up the prototype chain, we create a new object using
 // the User prototype and assign it to the Editor prototype
 Editor.prototype = Object.create(User.prototype);
+//Editor.prototype = new User('name'...);
+
 // Now we can access all the properties and methods
 // of User from the Editor object
 var david = new Editor("David", "matthew@medium.com");
@@ -130,3 +136,26 @@ class Athlete extends Person {
       this.sport = sport
   }
 }
+
+
+/*
+Object Oriented Javascript - Object Literals
+
+Object Oriented Javascript - Updating Properties
+
+Object Oriented Javascript - Method Chaining
+
+Object Oriented Javascript - function Inheritance
+
+Object Oriented Javascript - function object using constructor new
+
+Object Oriented Javascript - function prototype and object proto
+
+Object Oriented Javascript - prototype chain and proto chain
+
+Object Oriented Javascript - Constructors (under the hood)
+
+Object Oriented Javascript - Prototype
+
+Object Oriented Javascript - Prototype Inheritance
+*/

@@ -1,4 +1,6 @@
+
 var printer = (function() {
+  // IIFE block 
   var printerInstance;
 
   function create() {
@@ -9,7 +11,6 @@ var printer = (function() {
       turnOn: turnOn
     };
   }
-
   return {
     getInstance: function() {
       if (!printerInstance) {
@@ -18,10 +19,4 @@ var printer = (function() {
       return printerInstance;
     }
   };
-
-  function Singleton() {
-    if (!printerInstance) {
-      printerInstance = intialize();
-    }
-  }
 })();
